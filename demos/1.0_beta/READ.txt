@@ -1,0 +1,5 @@
+This current update does not contain any JavaScript.
+
+The 1.0_beta update for MCArtist contains:
+• Bootstrap 4.0 code
+• FontAwesome 4.7 icons
